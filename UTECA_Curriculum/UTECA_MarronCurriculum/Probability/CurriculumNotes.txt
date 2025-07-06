@@ -1,0 +1,42 @@
+
+
+##########################
+My Course in Probability
+#########################
+
+https://www.stat.cmu.edu/~cshalizi/TALR/
+https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+
+=======	The Beginnings	====================================
+
+----------------------
+The Big Mental Model
+----------------------
+
+We model the data-generating mechanism through probability distributions and stochastic processes. (Cosma)
+
+Karl Popper, the leading advocate of hypothetico-deductivism in the last century, denied
+that induction was even possible (Cosma+Gelman)
+
+---------
+Definitions
+-----------
+Data-generating mechanisms (reality)
+Inference
+	causal
+	statistical
+Parameters == statistical functionals (functions of probability distributions and stochastic processes)
+
+
+
+NOTES "Cosma_StatsTextbook.pdf"
+
+	1.1 Statistics, Data Analysis, Regression
+		Statistics, then, uses probability to model (statistical) inference from data.
+	
+	6.1 Stochastic Models, Uncertainty, Sampling Distributions
+		We thus model the data-generating mechanism through probability distributions and stochastic processes.
+		Since a function of a function is a “functional”, and these quantities are functions of the true probability distribution function, we’ll call these functionals or statistical functionals1 . Functionals
+could be single numbers (like the total rat population), or vectors, or even whole curves (like the expected time-course of temperature over the year, or the regression of hawks now on rats earlier). Statistical inference becomes estimating those functionals, or testing hypotheses about them. Most writers in theoretical statistics just call them “parameters” in a generalized sense, but I will try to restrict that word to actual parameters specifying statistical models, to minimize confusion.
+These estimates and other inferences are functions of the data values, which means that they inherit variability from the underlying stochastic process.
+
