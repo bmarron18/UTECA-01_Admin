@@ -10,6 +10,13 @@ https://www.stat.cmu.edu/~cshalizi/TALR/
 Advanced Data Analysis from an Elementary Point of View
 https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
 
+Stan: Software for Bayesian Data Analysis
+https://mc-stan.org/
+
+Andrew Gelman
+http:// www.stat.columbia.edu/∼gelman/
+
+
 =======	The Beginnings	====================================
 
 ----------------------
@@ -32,6 +39,12 @@ The Big Mental Model
 	distribution" is a usually-untestable assumption. Rather than exact knowledge from the Oracle, we 
 	have only a limited number of noisy samples from the reality-based data-generating mechanism 
 	(aka sampling distribution).
+	
+My Comment: Statistics in general  Assumes that a) the phenomenon already exists and b) is observable and c) is
+measurable. If the system under study is non-stationary and creates new subsets by i)
+differentiation of the whole (morphogenesis) or ii) emergence, what is the value of the sampling?
+Likewise, what if the system exhibits path dependence and becomes subject to a bifurcation
+point. What then is the value of the sampling data? Law confesses,”... stochastic processes for most real (-world) systems do not have steady-state distributions since characteristics of the system change over time.” (p 493)Law, Averill M. 2006. Simulation Modeling and Analysis. 4th ed. McGraw-Hill Series in Industrial Engineering and Management Science. Boston: McGraw-Hill.
 
 ----------
 Concepts and Philosophy
