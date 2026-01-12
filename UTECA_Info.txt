@@ -11,7 +11,8 @@ UTECA
 (MVS Media Radio/TV)
 ###############
 
-Melissa Verduzco Villarruel		<== rector
+Melissa Verduzco Villarruel		
+Elizabeth Itandehui Ruiz Puig		<== rector
 
 Luis Enrique Abundez Torres			<== current 
 Viridiana González Mandujano			<== old
