@@ -1,4 +1,5 @@
 UTECA
+Universidad Tecnologia Americana
 Viaducto Presidente Miguel Alemán #255
 Col. Roma Sur. Alcaldía Cuauhtémoc. CP 06760. CDMX
 +52 (55) 5264 8520 / 800 36 UTECA/88322
@@ -7,24 +8,18 @@ CEO Rodrigo Vargas
 
 
 ###############
-UTECA
+UTECA CDMX
 (MVS Media Radio/TV)
 ###############
 
+Elizabeth Itandehui Ruiz Puig			<== rectora	
 Melissa Verduzco Villarruel		
-Elizabeth Itandehui Ruiz Puig		<== rector
+
 
 Luis Enrique Abundez Torres			<== current 
-Viridiana González Mandujano			<== old
-Interpreter school, UTECA
-Universidad Tecnológica Americana,
+Viridiana González Mandujano			
 direccioninterpretacion@uteca.edu.mx
 
-
-############
-Org CHart
-26-1
-###########
 
 --- Evidencia de dar clases en linea
 correo-e al Coordinacion Pedagogica
@@ -32,21 +27,7 @@ correo-e al Coordinacion Pedagogica
 Maria del Carmen Gonzales Avila
 pedagogia@uteca.edu.mx
 
---- ENCARGADOS DE CLÚSTER
-Director: Ivan Romo 
-innovacion@uteca.edu.mx
-
-Coordinadora: Yelsi Carrillo 
-coord.creatydiseno@uteca.edu.mx
-
-LICENCIATURAS 
-CCD
-DAM
-AVV
-NEG 
-
-
- ---ENCARGADOS DE CLÚSTER
+--- ENCARGADOS DE CLÚSTERS
 Director: Luis Enrique Abúndez Torres
 direccioninterpretacion@uteca.edu.mx
 
@@ -60,6 +41,23 @@ MRP
 INT
 ACT
 
+
+Director: 
+innovacion@uteca.edu.mx
+
+Coordinadora: Yelsi Carrillo 
+coord.creatydiseno@uteca.edu.mx
+
+LICENCIATURAS 
+CCD
+DAM
+AVV
+NEG 
+
+
+#############
+UTECA ONLINE
+##############
 
 
 
