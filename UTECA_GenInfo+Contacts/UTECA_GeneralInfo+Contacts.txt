@@ -12,27 +12,17 @@ UTECA CDMX
 (MVS Media Radio/TV)
 ###############
 
-Elizabeth Itandehui Ruiz Puig			<== rectora	
+Elizabeth Itandehui Ruiz Puig			<== current rectora	
 Melissa Verduzco Villarruel		
 
-
-Luis Enrique Abundez Torres			<== current 
-Viridiana González Mandujano			
-direccioninterpretacion@uteca.edu.mx
-
-
---- Evidencia de dar clases en linea
-correo-e al Coordinacion Pedagogica
-
-Maria del Carmen Gonzales Avila
-pedagogia@uteca.edu.mx
-
---- ENCARGADOS DE CLÚSTERS
-Director: Luis Enrique Abúndez Torres
-direccioninterpretacion@uteca.edu.mx
-
-Apoyo: Gabriela del Campo
+Apoyo Rectoria: Gabriela del Campo
 asistenterectoria@uteca.edu.mx
+
+
+--- ENCARGADOS DE CLÚSTER 1
+Director: Luis Enrique Abúndez Torres		<== current direccion academico
+Viridiana González Mandujano
+direccioninterpretacion@uteca.edu.mx
 
 LICENCIATURAS 	
 IRP
@@ -41,7 +31,7 @@ MRP
 INT
 ACT
 
-
+--- ENCARGADOS DE CLÚSTER 2
 Director: 
 innovacion@uteca.edu.mx
 
@@ -54,10 +44,35 @@ DAM
 AVV
 NEG 
 
+--- Evidencia de dar clases en linea
+correo-e al Coordinacion Pedagogica
 
+Maria del Carmen Gonzales Avila
+pedagogia@uteca.edu.mx
+
+
+Ayde Vargas Méndez 			<== contadora
+avargas@uteca.edu.mx
+
+############
+UTECA Online
 #############
-UTECA ONLINE
-##############
+
+Licenciatura en Interpretación Traducción
+
+Licenciatura en Comunicación y Contenidos Digitales
+
+Licenciatura en Animación y Arte de Videojuegos
+
+dos Coordinaciones Pedagógica
+
+Viviana Barrera Trejo
+rector.online@uteca.edu.mx 		????
+
+
+Armando Valdez Contreras
+tutoria online
+tutoriaonline@uteca.edu.mx
 
 
 
